@@ -6,4 +6,5 @@ I am available for any type of contact :wink:, whether for interest in work, or 
 
 Contacts:
 * Email: balmantrafael@gmail.com :incoming_envelope:
+* Linkedin: https://br.linkedin.com/in/rafael-brandt-balmant-429461162 :computer:
 * Cellphone: +55 43 999197739 :iphone:
