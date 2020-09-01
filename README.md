@@ -4,7 +4,9 @@ Hy my name is Rafael :smile:, in this repository I will put some logic exercises
 
 I am available for any type of contact :wink:, whether for interest in work, or doubts in programming, in whatever I can I will help
 
-<img src="https://www.codewars.com/users/b4tut4/badges/large" alt="Logo" />
+<a href="https://www.codewars.com/users/b4tut4/">
+  <img src="https://www.codewars.com/users/b4tut4/badges/large" alt="Logo" />
+</a>
 
 Contacts:
 * Email: balmantrafael@gmail.com :incoming_envelope:
