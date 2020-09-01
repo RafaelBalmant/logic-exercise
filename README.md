@@ -1,7 +1,8 @@
 
-# Logic Exercise  <a href="https://www.codewars.com/users/b4tut4/">
-  <img src="https://www.codewars.com/users/b4tut4/badges/large" alt="Logo" />
-</a>
+# Logic Exercise  
+# <a href="https://www.codewars.com/users/b4tut4/">
+#    <img src="https://www.codewars.com/users/b4tut4/badges/large" alt="Logo" />
+# </a>
 
 Hy my name is Rafael :smile:, in this repository I will put some logic exercises with a little of the tech / language of programming that I know!
 
