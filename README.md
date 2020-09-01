@@ -1,8 +1,10 @@
 # Logic Exercise
 
-<h1>Hy</h1> my name is Rafael :smile:, in this repository I will put some logic exercises with a little of the tech / language of programming that I know!
+Hy my name is Rafael :smile:, in this repository I will put some logic exercises with a little of the tech / language of programming that I know!
 
 I am available for any type of contact :wink:, whether for interest in work, or doubts in programming, in whatever I can I will help
+
+<img src="https://www.codewars.com/users/b4tut4/badges/large" alt="Logo" />
 
 Contacts:
 * Email: balmantrafael@gmail.com :incoming_envelope:
