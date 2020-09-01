@@ -1,5 +1,5 @@
-Language: PHP :rocket:
-Exercise:Find the missing letter
+Language: PHP
+Exercise: Find the missing letter
 
 Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
 
