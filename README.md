@@ -3,6 +3,7 @@
    .text-right{
       text-align: right;
       color: red;
+      background-color: red;
    }
 </style>
 <h3>Logic Exercises</h3>
