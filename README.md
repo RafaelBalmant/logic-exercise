@@ -1,4 +1,4 @@
-<h3 class="text-right">Logic Exercises</h3>
+<h3 style="text-align:center;">Logic Exercises</h3>
 <div>
    <p>
    Hy my name is Rafael :smile:, in this repository I will put some logic exercises with a little of the tech / language of programming that I know!
