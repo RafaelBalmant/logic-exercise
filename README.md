@@ -1,11 +1,14 @@
 
-# Logic Exercise  
-
-Hy my name is Rafael :smile:, in this repository I will put some logic exercises with a little of the tech / language of programming that I know!
-
-I am available for any type of contact :wink:, whether for interest in work, or doubts in programming, in whatever I can I will help
-
+<h3>Logic Exercise</h3>
+<div>
+   <p>
+   Hy my name is Rafael :smile:, in this repository I will put some logic exercises with a little of the tech / language of programming that I know!
+   I am available for any type of contact :wink:, whether for interest in work, or doubts in programming, in whatever I can I will help
+   </p>
+</div>
+<div>
 :mailbox: Contacts:
+</div>
 <div>
    <a href="mailto:balmantrafael@gmail.com" alt="Gmail">
       <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
