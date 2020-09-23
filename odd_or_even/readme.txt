@@ -1,8 +1,11 @@
-Language: PHP
-Exercise: Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case).
+Language: JS
+Exercise: Given a list of numbers, determine whether the sum of its elements is odd or even.
 
-Examples
+Give your answer as a string matching "odd" or "even".
 
-toCamelCase("the-stealth-warrior"); // returns "theStealthWarrior"
+If the input array is empty consider it as: [0] (array with a zero).
 
-toCamelCase("The_Stealth_Warrior"); // returns "TheStealthWarrior"se
+Example:
+odd_or_even([0])          ==  "even"
+odd_or_even([0, 1, 4])    ==  "odd"
+odd_or_even([0, -1, -5])  ==  "even"
