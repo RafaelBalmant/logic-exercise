@@ -1,4 +1,10 @@
-
+<html>
+<style>
+   .text-right{
+      text-align: right;
+      color: red;
+   }
+</style>
 <h3>Logic Exercises</h3>
 <div>
    <p>
@@ -20,9 +26,10 @@
          <a href="mailto:balmantrafael@gmail.com" alt="Gmail">
             <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
          </a>
-         <a href="https://br.linkedin.com/in/rafael-brandt-balmant-429461162" alt="Linkedin">
+         <a href="https://br.linkedin.com/in/rafael-brandt-balmant-429461162" alt="Linkedin" class="text-right">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
          </a>
       </p>
    </span> 
 </div>
+</html>
