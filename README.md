@@ -13,9 +13,7 @@ Contacts :mailbox:
    <a href="https://br.linkedin.com/in/rafael-brandt-balmant-429461162" alt="Linkedin">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-</div>
-<div>
    <a href="https://www.codewars.com/users/b4tut4/">
-      <img src="https://www.codewars.com/users/b4tut4/badges/large" alt="Logo" />
+      <img src="https://www.codewars.com/users/b4tut4/badges/micro" alt="Logo" />
    </a>
 </div>
