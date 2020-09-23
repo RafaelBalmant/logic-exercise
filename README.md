@@ -1,7 +1,8 @@
 <h3>Logic Exercises</h3>
 <div>
-   <p>Hy my name is Rafael :smile:, in this repository I will put some logic exercises with a little of the tech / language of programming that I know!</p>
-   <p>I am available for any type of contact :wink:, whether for interest in work, or doubts in programming, in whatever I can I will help</p>
+   <p>Hy my name is Rafael :smile:, in this repository I will put some logic exercises with a little of the tech / language of programming that I know!</br>
+   I am available for any type of contact :wink:, whether for interest in work, or doubts in programming, in whatever I can I will help
+   </p>
 </div>
 <div>
 
