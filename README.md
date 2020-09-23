@@ -1,11 +1,3 @@
-<html>
-<style>
-   .text-right{
-      text-align: right;
-      color: red;
-      background-color: red;
-   }
-</style>
 <h3 class="text-right">Logic Exercises</h3>
 <div>
    <p>
@@ -31,4 +23,3 @@
       </a>
    </span> 
 </div>
-</html>
