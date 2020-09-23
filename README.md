@@ -6,7 +6,7 @@
       background-color: red;
    }
 </style>
-<h3>Logic Exercises</h3>
+<h3 class="text-right">Logic Exercises</h3>
 <div>
    <p>
    Hy my name is Rafael :smile:, in this repository I will put some logic exercises with a little of the tech / language of programming that I know!
