@@ -5,7 +5,7 @@ Hy my name is Rafael :smile:, in this repository I will put some logic exercises
 
 I am available for any type of contact :wink:, whether for interest in work, or doubts in programming, in whatever I can I will help
 
-Contacts :mailbox:
+:mailbox: Contacts:
 <div>
    <a href="mailto:balmantrafael@gmail.com" alt="Gmail">
       <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
