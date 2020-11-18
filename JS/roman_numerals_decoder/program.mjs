@@ -8,6 +8,6 @@ const romanNumbers = {
   M: 1000,
 };
 
-export default romanNumeralsDecoder = () => {
+export default function constromanNumeralsDecoder() {
   console.log(romanNumbers["I"]);
-};
+}
