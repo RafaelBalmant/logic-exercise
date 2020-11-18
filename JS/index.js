@@ -3,4 +3,6 @@
 // import songDecoder from "./song_decoder/program.mjs";
 // console.log(songDecoder("AWUBWUBWUBBWUBWUBWUBC"));
 
+import romanNumeralsDecoder from "./roman_numerals_decoder/program.mjs";
 
+console.log(romanNumeralsDecoder());

@@ -3,7 +3,7 @@ function zeros(number) {
     return 0;
   }
   const list = Array.from({ length: number }, (v, k) => k + 1);
-  let numbersZero = 0;
+  // let numbersZero = 0;
   const numbersEndFive = list.filter(
     (value) => String(value)[String(value).length - 1] === "5"
   );
