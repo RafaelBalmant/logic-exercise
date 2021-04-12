@@ -30,3 +30,4 @@ document.getElementById("app").innerHTML = `${formatString(
 )} => Start value`;
 
 // this script was made use in html page
+// https://jsfiddle.net/uwgs1mx0/6/
